@@ -58,8 +58,8 @@ exports.signup=async(req,res)=>
         port: 465,
         secure: true, // true for 465, false for other ports
         auth: {
-        user: "vanmalimayur45@gmail.com", // generated ethereal user
-        pass: "M@yur11495", // generated ethereal password
+        user: "******************", // generated ethereal user
+        pass: "**************", // generated ethereal password
         },
     });
 
@@ -103,8 +103,8 @@ exports.forgotPassword=async(req,res)=>
         port: 465,
         secure: true, // true for 465, false for other ports
         auth: {
-        user: "vanmalimayur45@gmail.com", // generated ethereal user
-        pass: "M@yur11495", // generated ethereal password
+        user: "**********************", // generated ethereal user
+        pass: "**************", // generated ethereal password
         },
         });
 
